@@ -1,7 +1,6 @@
 .places__title {
   grid-area: title;
   font-style: normal;
-  font-style: normal;
   font-weight: 900;
   font-size: 72px;
   line-height: 76px;
@@ -20,7 +19,7 @@
 @media screen and (max-width: 767px) {
   .places__title {
     font-size: 32px;
-    line-height: 35px; 
+    line-height: 35px;
     padding: 0 16px 0;
     box-sizing: border-box;
   }
