@@ -1,0 +1,21 @@
+.section_margins_top {
+    margin-top: 88px;
+}
+
+@media screen and (max-width: 1279px) {
+    .section_margins_top {
+        margin-top: 85px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .section_margins_top {
+      margin-top: 87px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .section_margins_top {
+      margin-top: 64px;
+    }   
+}
