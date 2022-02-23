@@ -7,7 +7,6 @@
     color: #FFFFFF;
     margin: 32px auto 0;
     max-width: 640px;
-    min-height: 120px;
 }
 
 @media screen and (max-width: 767px) {
@@ -16,6 +15,5 @@
       line-height: 20px;
       margin: 17px auto 0;
       max-width: 288px;
-      min-height: 40px;
     }    
 }

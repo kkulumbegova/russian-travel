@@ -8,7 +8,6 @@
     color: #FFFFFF;
     padding-top: 253px;
     max-width: 560px;
-    min-height: 152px;
     margin: 0 0 32px;
     }
 
@@ -28,9 +27,8 @@
   .cover__title {
     font-size: 32px;
     line-height: 35px;
-    padding-top: 33px;
+    padding-top: 28px;
     max-width: 240px;
-    min-height: 70px;
     margin: 0 0 16px;
   }
 }
