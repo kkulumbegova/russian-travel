@@ -13,3 +13,11 @@
     src: url(./Inter-Regular.ttf) format('woff2'),
          url(./Inter-Regular.ttf) format('woff');
 }
+
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    src: url(./Inter-Bold.ttf) format('woff2'),
+         url(./Inter-Bold.ttf) format('woff');
+}

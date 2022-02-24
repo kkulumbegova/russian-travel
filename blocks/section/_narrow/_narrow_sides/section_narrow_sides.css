@@ -1,22 +1,22 @@
-.section_narrow {
+.section_narrow_sides {
     box-sizing: border-box;
     padding: 0 148px;
 }
 
 @media screen and (max-width: 1279px) {
-    .section_narrow {
+    .section_narrow_sides {
         padding: 0 48px;
     }
 }
 
 @media screen and (max-width: 1023px) {
-    .section_narrow {
+    .section_narrow_sides {
         padding: 0 24px;
     }
 }
 
 @media screen and (max-width: 767px) {
-  .section_narrow {
+  .section_narrow_sides {
     padding: 0 16px;
   }   
 }
